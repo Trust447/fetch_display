@@ -2,13 +2,13 @@
     "movies": [
         {
             "id": 1,
-            "tittle": "game of thrones",
+            "title": "game of thrones",
             "year": 2015
         },
 
         {
             "id": 2,
-            "tittle": "lost",
+            "title": "lost",
             "year": 2005
         }
     ]
